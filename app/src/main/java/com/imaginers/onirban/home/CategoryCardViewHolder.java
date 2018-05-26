@@ -12,12 +12,10 @@ public class CategoryCardViewHolder extends RecyclerView.ViewHolder {
 
     public NetworkImageView categoryImage;
     public TextView categoryTitle;
-    public TextView categoryPrice;
 
     public CategoryCardViewHolder(@NonNull View itemView) {
         super(itemView);
         categoryImage = itemView.findViewById(R.id.category_image);
         categoryTitle = itemView.findViewById(R.id.category_title);
-        categoryPrice = itemView.findViewById(R.id.category_price);
     }
 }

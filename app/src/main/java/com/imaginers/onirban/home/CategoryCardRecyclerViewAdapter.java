@@ -37,7 +37,6 @@ public class CategoryCardRecyclerViewAdapter extends RecyclerView.Adapter<Catego
         if (categoryList != null && position < categoryList.size()) {
             CategoryEntry category = categoryList.get(position);
             holder.categoryTitle.setText(category.title);
-            holder.categoryPrice.setText(category.price);
             imageRequester.setImageFromUrl(holder.categoryImage, category.url);
         }
     }

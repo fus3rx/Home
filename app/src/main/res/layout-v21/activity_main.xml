@@ -58,7 +58,6 @@
         android:id="@+id/category_grid"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="3dp"
         android:elevation="8dp"
         android:fillViewport="true"
         android:background="@color/categoryGridBackgroundColor"

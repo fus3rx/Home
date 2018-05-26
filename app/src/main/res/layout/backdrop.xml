@@ -5,49 +5,43 @@
         style="@style/Widget.Exigent.Button.TextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/featured_label" />
+        android:text="Home" />
 
     <android.support.design.button.MaterialButton
         style="@style/Widget.Exigent.Button.TextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/apartment_label" />
+        android:text="Shopping Cart" />
 
     <android.support.design.button.MaterialButton
         style="@style/Widget.Exigent.Button.TextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/accessories_label" />
+        android:text="Notification" />
 
     <android.support.design.button.MaterialButton
         style="@style/Widget.Exigent.Button.TextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/shoes_label" />
+        android:text="Wishlist" />
 
     <android.support.design.button.MaterialButton
         style="@style/Widget.Exigent.Button.TextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/tops_label" />
-
-    <android.support.design.button.MaterialButton
-        style="@style/Widget.Exigent.Button.TextButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/bottoms_label" />
-
-    <android.support.design.button.MaterialButton
-        style="@style/Widget.Exigent.Button.TextButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/dresses_label" />
+        android:text="Nearby" />
 
     <View
-        android:layout_width="56dp"
+        android:layout_width="80dp"
         android:layout_height="1dp"
         android:layout_margin="16dp"
         android:background="?android:attr/textColorPrimary" />
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Exigent.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings" />
 
     <android.support.design.button.MaterialButton
         style="@style/Widget.Exigent.Button.TextButton"
