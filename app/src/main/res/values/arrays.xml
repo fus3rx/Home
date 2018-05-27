@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>hp chromebox</item>
+        <item>hp elitebook 850</item>
+        <item>lenovo flex</item>
+        <item>htc u11</item>
+        <item>huwai nova</item>
+        <item>sun ultra flair</item>
+    </string-array>
+    <string-array name="place_desc">
+
+        <item>CPU: Intel Celeron N3450
+        GPU: Intel HD Graphics 500 (Apollo Lake)
+        DISPLAY: 11.6”, HD (1366 x 768), TN
+        STORAGE: 32.00GB SSD + 0.00GB HDD
+        RAM: 8GB LPDDR4
+        WEIGHT: 1.24 kg (2.7 lbs).
+        </item>
+
+
+        <item>CPU: Intel Core i7-6600U
+        GPU: Intel HD Graphics 520
+        DISPLAY: 15.6”, Full HD (1920 x 1080), TN
+        STORAGE: 256.00GB SSD + 0.00GB HDD
+        RAM: 8GB DDR4
+        WEIGHT: 1.84 kg (4.1 lbs)
+        </item>
+
+
+        <item>
+        CPU: Intel Core i7-8550U
+        GPU: Intel UHD Graphics 620
+        DISPLAY: 14.0”, Full HD (1920 x 1080), IPS
+        STORAGE: 512.00GB SSD + 0.00GB HDD
+        RAM: 16GB DDR4
+        WEIGHT: 1.60 kg (3.5 lbs)
+        </item>
+
+
+        <item>
+        Technology	GSM / HSPA / LTE
+        2G bands	GSM 850 / 900 / 1800 / 1900 – SIM 1 SIM 2 (dual-SIM model only)
+        3G bands	HSDPA 850 / 900 / 1900 / 2100
+        4G bands	LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 28(700), 32(1500), 38(2600), 39(1900), 40(2300), 41(2500)
+        Speed	HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/75 Mbps
+        GPRS	Yes
+        EDGE	Yes
+        </item>
+
+
+        <item>
+        Technology	GSM / HSPA / LTE
+        2G bands	GSM 850 / 900 / 1800 / 1900 – SIM 1 SIM 2
+        3G bands	HSDPA
+        4G bands	LTE
+        Speed	HSPA, LTE
+        GPRS	Yes
+        EDGE	Yes
+        </item>
+
+
+        <item>
+        Capacity 16 GB
+        Read Speed up to 130 MB/s1
+        Generation USB 3.0
+        Dimensions: 0.52" x 1.67" x 0.26" (13.21 mm x 42.42 mm x 6.60 mm)
+        Operating temperature: 32° - 113° F (0° – 45° C)
+        Storage temperature: 0° - 158° F (-10° – 70° C)
+        </item>
+
+    </string-array>
+    <string-array name="place_details">
+        <item>CPU: Intel Celeron N3450
+        GPU: Intel HD Graphics 500 (Apollo Lake)
+        DISPLAY: 11.6”, HD (1366 x 768), TN
+        STORAGE: 32.00GB SSD + 0.00GB HDD
+        RAM: 8GB LPDDR4
+        WEIGHT: 1.24 kg (2.7 lbs).
+        </item>
+        <item>CPU: Intel Core i7-6600U
+        GPU: Intel HD Graphics 520
+        DISPLAY: 15.6”, Full HD (1920 x 1080), TN
+        STORAGE: 256.00GB SSD + 0.00GB HDD
+        RAM: 8GB DDR4
+        WEIGHT: 1.84 kg (4.1 lbs)
+        </item>
+        <item>CPU: Intel Core i7-8550U
+        GPU: Intel UHD Graphics 620
+        DISPLAY: 14.0”, Full HD (1920 x 1080), IPS
+        STORAGE: 512.00GB SSD + 0.00GB HDD
+        RAM: 16GB DDR4
+        WEIGHT: 1.60 kg (3.5 lbs)
+        </item>
+        <item>Technology	GSM / HSPA / LTE
+        2G bands	GSM 850 / 900 / 1800 / 1900 – SIM 1 SIM 2 (dual-SIM model only)
+        3G bands	HSDPA 850 / 900 / 1900 / 2100
+        4G bands	LTE band 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 28(700), 32(1500), 38(2600), 39(1900), 40(2300), 41(2500)
+        Speed	HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/75 Mbps
+        GPRS	Yes
+        EDGE	Yes
+        </item>
+        <item>Technology	GSM / HSPA / LTE
+        2G bands	GSM 850 / 900 / 1800 / 1900 – SIM 1 SIM 2
+        3G bands	HSDPA
+        4G bands	LTE
+        Speed	HSPA, LTE
+        GPRS	Yes
+        EDGE	Yes
+        </item>
+        <item>Capacity 16 GB
+        Read Speed up to 130 MB/s1
+        Generation USB 3.0
+        Dimensions: 0.52" x 1.67" x 0.26" (13.21 mm x 42.42 mm x 6.60 mm)
+        Operating temperature: 32° - 113° F (0° – 45° C)
+        Storage temperature: 0° - 158° F (-10° – 70° C)
+        </item>
+    </string-array>
+    <string-array name="place_price">
+        <item>1000 tk</item>
+        <item>1250 tk</item>
+        <item>4520 tk</item>
+        <item>54500 tk</item>
+        <item>1250 tk</item>
+        <item>10000 tk</item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+    <array name="place_avator">
+        <item>@drawable/a_avator</item>
+        <item>@drawable/b_avator</item>
+        <item>@drawable/c_avator</item>
+        <item>@drawable/d_avator</item>
+        <item>@drawable/e_avator</item>
+        <item>@drawable/f_avator</item>
+    </array>
+    <array name="places_picture">
+        <item>@drawable/hpchromebook</item>
+        <item>@drawable/hpelitebook850</item>
+        <item>@drawable/lenovoflex</item>
+        <item>@drawable/htcu11</item>
+        <item>@drawable/huwainova</item>
+    </array>
+</resources>
